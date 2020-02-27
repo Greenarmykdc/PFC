@@ -183,18 +183,18 @@ WR,Auden Tate,21,2018,68,57,87,80,85,62,0.6,4
 END_PLAYERS
 Pittsburgh Steelers, PIT
 OL,B.J. Finney,27,2016,70,70,84,84,73,77,0.6,1
-OL,Maurkice Pouncey,29,2010,85,90,88,91,73,84,8.8,5
+OL,Maurkice Pouncey,29,2010,85,90,88,91,73,84,8.8,8
 CB,Artie Burns,23,2016,81,82,90,81,91,57,2.4,4
 CB,Mike Hilton,24,2017,78,80,86,83,87,64,0.6,2
 CB,Steven Nelson,26,2015,76,76,80,81,82,81,0.6,3
 CB,Cameron Sutton,23,2017,69,62,93,69,88,58,0.8,4
 S,Marcus Allen,22,2018,67,57,91,57,85,57,0.7,4
-S,Minkah Fitzpatrick,23,2018,85,85,88,79,87,92,1.8,6
+S,Minkah Fitzpatrick,23,2018,88,85,88,79,87,92,1.8,9
 S,Morgan Burnett,29,2010,84,83,92,74,86,83,4.8,3
 S,Jordan Dangerfield,28,2014,71,63,87,59,85,63,0.6,1
 CB,Terrell Edmunds,21,2018,76,68,93,74,90,64,1.7,5
 S,Malik Golden,25,2018,60,60,60,60,60,60,0.5,1
-CB,Joe Haden,29,2010,85,86,98,66,88,86,9.0,3
+CB,Joe Haden,29,2010,85,86,98,66,88,86,4.0,5
 CB,Coty Sensabaugh,30,2012,72,72,92,52,90,72,1.3,2
 DL,Tyson Alualu,31,2010,77,83,75,86,79,83,3.0,2
 DL,Stephon Tuitt,25,2014,86,89,74,91,80,89,10.0,5
@@ -207,13 +207,13 @@ K,Chris Boswell,27,2015,79,66,84,92,88,65,4.0,4
 LB,Olasunkanmi Adeniyi,21,2018,63,52,78,85,80,60,0.6,3
 LB,Jon Bostic,27,2013,73,77,91,83,83,54,2.0,2
 LB,Anthony Chickillo,26,2015,68,67,85,76,67,58,1.9,1
-LB,Bud Dupree,25,2015,72,68,83,82,66,63,2.3,4
+LB,Bud Dupree,25,2015,78,68,83,82,66,63,2.3,4
 LB,L.J. Fort,28,2012,68,66,83,84,67,70,0.7,2
 LB,Keith Kelsey,23,2017,60,60,60,60,60,60,0.5,1
 LB,Tyler Matakevich,26,2016,67,64,90,83,69,63,0.6,4
-LB,Devin Bush,21,2019,86,74,89,82,83,85,1.2,4
+LB,Devin Bush,21,2019,88,81,89,86,85,85,1.2,4
 LB,Matthew Thomas,23,2018,60,51,85,77,68,59,0.6,3
-LB,T.J. Watt,24,2017,87,90,84,88,90,85,2.3,4
+LB,T.J. Watt,24,2017,90,90,84,90,90,88,2.3,9
 LB,Vince Williams,29,2013,78,88,87,86,75,71,6.2,3
 OL,Kameron Canaday,26,2016,40,53,84,69,47,58,0.6,1
 OL,David DeCastro,27,2012,95,91,90,94,95,93,10.0,7
@@ -227,23 +227,23 @@ OL,Chuks Okorafor,21,2018,60,60,60,60,60,60,0.9,4
 OL,Alejandro Villanueva,30,2014,78,87,84,86,83,82,6.0,4
 K,Jordan Berry,27,2015,79,65,90,91,84,59,1.9,1
 QB,Joshua Dobbs,23,2017,69,66,96,91,76,74,0.7,4
-QB,Ben Roethlisberger,32,2005,93,95,95,95,92,83,11.9,6
+QB,Ben Roethlisberger,22,2017,95,95,95,95,92,87,11.9,8
 QB,Mason Rudolph,21,2018,80,75,96,90,80,60,1.0,9
 RB,James Conner,23,2017,83,87,70,88,90,79,0.8,5
-RB,Benny Snell Jr,22,2019,78,72,86,83,82,80,0.8,3
+RB,Benny Snell Jr,22,2019,78,72,86,83,82,80,0.8,7
 RB,Jaylen Samuels,22,2018,68,55,90,76,87,73,0.7,4
 S,Sean Davis,25,2016,73,78,90,64,90,66,1.0,4
 WR,Xavier Grimble,26,2014,73,72,82,76,76,55,0.6,1
 WR,Jesse James,24,2015,77,83,91,86,83,52,0.6,4
 WR,Ryan Malleck,25,2017,66,50,83,73,79,49,0.5,1
 WR,Vance McDonald,28,2013,79,67,91,82,82,54,6.6,3
-WR,Diontae Johnson,22,2019,80,75,84,80,81,83,0.5,1
+WR,Diontae Johnson,22,2019,84,81,84,83,84,84,0.5,1
 WR,Darrius Heyward-Bey,31,2009,69,79,85,79,91,75,1.3,3
 WR,Justin Hunter,27,2013,72,68,88,77,90,70,0.9,1
 WR,Eli Rogers,26,2016,76,78,88,90,92,62,0.6,1
-WR,JuJu Smith-Schuster,22,2017,87,86,94,90,92,85,1.0,5
+WR,JuJu Smith-Schuster,22,2017,92,86,94,92,93,87,1.0,8
 WR,Ryan Switzer,24,2017,74,67,95,83,90,78,0.7,4
-WR,James Washington,22,2018,77,75,94,83,90,73,1.1,4
+WR,James Washington,22,2018,81,75,94,83,90,73,1.1,5
 END_PLAYERS
 Buffalo Bills, BUF
 OL,Russell Bodine,26,2014,73,77,83,97,73,75,2.5,2
